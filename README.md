@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Marina Ribeiro  
+# 👋 Oiê, eu sou a Marina Ribeiro  
 
 🎓 Estudante de Banco de Dados**  
 📍 Bragança Paulista - SP  
