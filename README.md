@@ -35,7 +35,7 @@ Para mim, cada projeto é uma oportunidade de **unir aprendizado e prática** e 
 - [📊 **Sistema de Gestão da Folha de Pagamento**](https://github.com/euMarinaa/FolhaGest---Sistema-de-gestao-de-folha-de-pagamento-em-SQLServer)  
   *Banco de dados em SQL Server para controle de colaboradores, cargos, salários e pagamentos.*  
 
-- [🎮 **Jogo da Memória - Tema Comida**](link-do-repo)  
+- [🎮 **Sistema de Blog/Artigo**](link-do-repo)  
   *Um jogo online responsivo criado para entretenimento e aprendizado em programação.*  
 
 - [📈 **Análises de Dados com Python**](link-do-repo)  
