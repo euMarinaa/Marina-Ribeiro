@@ -1,6 +1,6 @@
 # 👋 Oiê, eu sou a Marina Ribeiro  
 
-🎓 Estudante de Banco de Dados**  
+🎓 Estudante de Banco de Dados
 📍 Bragança Paulista - SP  
 
 ---
